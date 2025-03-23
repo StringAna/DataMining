@@ -26,12 +26,15 @@ The model achieves 71.43% accuracy with:
 ### Visualizations
 
 ![Class Distribution](./Images/class_distribution.png)
+
 *Figure 1: Class distribution showing performance categories*
 
 ![Correlation Matrix](./Images/correlation_matrix.png)
+
 *Figure 2: Correlation heatmap visualizing relationships between features*
 
 ![PCA Variance Analysis](./Images/pca_variance_analysis.png)
+
 *Figure 3: PCA explained variance analysis showing optimal component selection*
 
 ## Implementation Insights
